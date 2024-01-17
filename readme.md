@@ -1,0 +1,1 @@
+- Use the issues as a future/in-progress projects repository.
